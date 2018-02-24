@@ -1,0 +1,32 @@
+.navbar-header {
+
+}
+
+.navbar-brand {
+    text-align: center;
+    float: none;
+    display: block;
+}
+
+a {
+  text-align: center;
+}
+
+.page-header {
+
+}
+
+.social {
+  width: 62px;
+  height: 62px;
+  margin-top: 8px;
+  margin-right: 5px;
+}
+
+.social:last-child {
+  margin-right: 0;
+}
+
+.page-footer {
+  height: 100px;
+}

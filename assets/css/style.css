@@ -30,3 +30,9 @@ a {
 .page-footer {
   height: 100px;
 }
+
+#message {
+  /* width: 100%;
+  max-width: 300px; */
+  height: 100px;
+}
